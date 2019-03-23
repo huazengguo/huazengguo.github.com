@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>郭花增</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>西北工业大学航海学院</b></p>
+      <p><b>邮箱：huazengguo@126.com</b></p>
+      <p><b>通讯地址：西安市碑林区友谊西路127号西北工业大学航海学院 中国 西安 710072</b></p>
+      <p><b>Email：huazengguo@126.com</b></p>
+      <p><b>Tel：18829535787</b></p>
+    </td>
+    <td width="25%">
+      <img src="/DSC_0011.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+### 个人简介 About Me
+郭花增，1994年出生，西北工业大学、硕士研究生。主要研究方向：水下航行器软、硬件设计、群机器人系统搭建与算法研究。现为西北工业大学水下航行器研究所（国防科技创新团队和教育部长江学者创新团队）项目组成员。参与国家级项目三项、参与863项目一项、参与省级项目一项，参与专业领域竞赛多项，获省级一等奖、二等奖、三等奖各一项。
 
-You can use the [editor on GitHub](https://github.com/huazengguo/huazengguo.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景
+- 2013.7-2017.7 ：      安阳师范学院  ， 物理与电气工程学院，   电气工程及其自动化 ，          本科
+- 2017.9-至今    ：      西北工业大学  ，  航海学院，  船舶与海洋工程（探测制导与控制方向）  ， 硕士
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 竞赛经历
+- 2015年“全国大学生电子设计竞赛”本科（电源组）“双向DC-DC变换器”河南赛区一等奖；
+- 2016年第七届“蓝桥杯”全国软件与信息技术专业人才大赛“单片机设计与开发组”河南赛区二等奖；
+- 2016年“全国非数学类专业数学竞赛”河南赛区一等奖。
 
-### Markdown
+### 项目经历
+- 2015.3-2015.12，河南省大学生创新基金项目：“微型直流永磁电主轴控制装置”，项目负责人，获得省级一等奖，已申请专利；
+- 2017.10-2018.3，国家863项目：“xxx滑翔机xxx”，子系统负责人；
+- 2017.12-2018.6，国家军科委项目：“xxx集群xxx”，项目主要负责人，已申请专利；
+- 2018.4-至今，    国家重点研发项目：“自主变形仿生柔体潜水器”，子系统负责人。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 获得奖励
+- 2013.9-2014.9，“安阳师范学院优秀学生”；
+- 2013.9-2014.9，“安阳师范学院国家励志奖学金”；
+- 2014.9-2019.9，“安阳师范学院先进个人”；
+- 2015.9-2016.9，“安阳师范学院国家励志奖学金”；
+- 2016.9-2017.6，“安阳师范学院校级一等学业奖学金”；
+- 2017.9-2018.9，“西北工业大学校级一等奖学金”。
 
-```markdown
-Syntax highlighted code block
+### 技能证书
+- 语言能力：英语四级、英语六级，具备良好的英语读写听说能力；
+- 专业能力：电子类中级工程师资格证书，具备独立设计和开发嵌入式系统能力；
+- 办公能力：计算机二级，熟练掌握PPT、WORD、EXCEL等办公软件。
 
-# Header 1
-## Header 2
-### Header 3
+### 专业技能
+-	精通树莓派、Nanopi开发，掌握以ARM为核心处理器的控制系统开发，有项目经历；
+-	精通Linux/Windows下C、C++、Python编程，有项目经历；
+-	掌握嵌入式基于Arm/Cortex-m系列平台应用开发和调试，并掌握常见的硬件电路设计及芯片手册解读；
+-	具有模拟电路、数字电路及嵌入式系统硬件设计和调试能力及经验，基本掌握Protel99、Altium Designer等电路设计软件；
+-	掌握Matlab分析软件、能够熟练使用Solidworks三维画图软件；
+-	掌握Linux/windows下Socket 编程、TCP/IP、UDP协议。熟悉多进程、多线程、及之间的通讯、消息队列等编程知识；
+- 掌握ROS、μC/OS-II等实时操作系统开发；
+- 掌握windows下基于C++、C#的上位机界面开发；
+- 掌握Opencv开源视觉算法库，掌握经典的目标识别与跟踪算法；
+-   熟悉常见的分类、聚类等机器学习算法、熟悉神经网络基本原理及神经网络训练过程。
 
-- Bulleted
-- List
+### 专业经历与技能培训
+- 2014.1-2014.3，       在南京英华达责任有限公司工作，主要职务是软件系统测试；
+- 2015.5-2015.7 ，      参与学院老师组织的全国大学生电子设计大赛培训；
+- 2015.7-2015.8  ，     参与学院组织的家电义务维修活动；
+- 2015.10-2015.12 ，    参与学院老师组织蓝桥杯比赛培训；
+- 2018.6-2018.7  ，     在南海参与项目组组织的航行器海试实验。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huazengguo/huazengguo.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
